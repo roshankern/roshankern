@@ -7,4 +7,3 @@ I graduated Case Western Reserve University in 2024 with a B.S. in Systems Biolo
 - 🌱 I’m currently learning about data science and its applications to cell biology.
 - 📫 How to reach me:
   - roshan.kern@gmail.com
-  - +1 720-768-9499

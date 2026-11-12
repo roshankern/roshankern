@@ -23,5 +23,5 @@ I'm Roshan. I use computation to study and improve biology, and I care about hea
 
 #### 📫 How to reach me
 
-- 📧 rkern@mit.edu
-- 🌐 [roshankern.com](https://roshankern.com) · [LinkedIn](https://linkedin.com/in/roshan-kern) · [CV](https://roshankern.com/Roshan_Kern_CV.pdf)
+- rkern@mit.edu
+- [roshankern.com](https://roshankern.com) · [LinkedIn](https://linkedin.com/in/roshan-kern) · [CV](https://roshankern.com/Roshan_Kern_CV.pdf)
